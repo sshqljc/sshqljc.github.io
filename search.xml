@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>Mac通过ssh远程连接Ubuntu主机</title>
+      <link href="/2023/05/19/Mac%E9%80%9A%E8%BF%87ssh%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5Ubuntu%E4%B8%BB%E6%9C%BA/"/>
+      <url>/2023/05/19/Mac%E9%80%9A%E8%BF%87ssh%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5Ubuntu%E4%B8%BB%E6%9C%BA/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Mac通过ssh远程连接Ubuntu主机"><a href="#Mac通过ssh远程连接Ubuntu主机" class="headerlink" title="Mac通过ssh远程连接Ubuntu主机"></a>Mac通过ssh远程连接Ubuntu主机</h1><h2 id="Ubuntu操作"><a href="#Ubuntu操作" class="headerlink" title="Ubuntu操作"></a>Ubuntu操作</h2><h4 id="首先安装ssh-server"><a href="#首先安装ssh-server" class="headerlink" title="首先安装ssh-server"></a>首先安装ssh-server<br></h4><p><code>sudo apt-get install openssh-server</code><br></p><h4 id="启动ssh"><a href="#启动ssh" class="headerlink" title="启动ssh"></a>启动ssh<br></h4><p><code>sudo /etc/init.d/ssh start</code><br></p><h4 id="检查启动成功与否"><a href="#检查启动成功与否" class="headerlink" title="检查启动成功与否"></a>检查启动成功与否<br></h4><p><code>ps -ef|grep ssh</code><br></p><h4 id="查看ip"><a href="#查看ip" class="headerlink" title="查看ip"></a>查看ip<br></h4><p>终端输入<code>ifconfig</code></p><h2 id="Mac操作"><a href="#Mac操作" class="headerlink" title="Mac操作"></a>Mac操作</h2><p>终端<code>ssh 用户名@ip</code></p><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/dolpin_ink/article/details/127462554">参考文章</a></h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 命令 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>oh my zsh主题挑选</title>
+      <link href="/2023/05/19/oh-my-zsh%E4%B8%BB%E9%A2%98%E6%8C%91%E9%80%89/"/>
+      <url>/2023/05/19/oh-my-zsh%E4%B8%BB%E9%A2%98%E6%8C%91%E9%80%89/</url>
+      
+        <content type="html"><![CDATA[<h1 id="oh-my-zsh主题挑选"><a href="#oh-my-zsh主题挑选" class="headerlink" title="oh my zsh主题挑选"></a><a href="https://github.com/ohmyzsh/ohmyzsh/wiki/Themes">oh my zsh主题挑选</a></h1><h1 id="oh-my-zsh-主题详情"><a href="#oh-my-zsh-主题详情" class="headerlink" title="oh my zsh 主题详情"></a><a href="https://blog.csdn.net/qq_45642410/article/details/112297569?ops_request_misc=&request_id=&biz_id=102&utm_term=oh-my-zsh%E4%B8%BB%E9%A2%98%E6%8E%A8%E8%8D%90&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-6-112297569.142%5Ev86%5Einsert_down1,239%5Ev2%5Einsert_chatgpt&spm=1018.2226.3001.4187">oh my zsh 主题详情</a></h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 命令 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ubuntu下rtl8852be网卡驱动安装 解决不能用wifi</title>
       <link href="/2023/05/19/ubuntu%E4%B8%8Brtl8852be%E7%BD%91%E5%8D%A1%E9%A9%B1%E5%8A%A8%E5%AE%89%E8%A3%85-%E8%A7%A3%E5%86%B3%E4%B8%8D%E8%83%BD%E7%94%A8wifi/"/>
       <url>/2023/05/19/ubuntu%E4%B8%8Brtl8852be%E7%BD%91%E5%8D%A1%E9%A9%B1%E5%8A%A8%E5%AE%89%E8%A3%85-%E8%A7%A3%E5%86%B3%E4%B8%8D%E8%83%BD%E7%94%A8wifi/</url>
