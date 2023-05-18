@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>vim字符串查找</title>
+      <link href="/2023/05/18/vim%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9F%A5%E6%89%BE/"/>
+      <url>/2023/05/18/vim%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9F%A5%E6%89%BE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="vim字符串查找"><a href="#vim字符串查找" class="headerlink" title="vim字符串查找"></a>vim字符串查找</h1><h2 id="1-从开头处搜索"><a href="#1-从开头处搜索" class="headerlink" title="1.从开头处搜索"></a>1.从开头处搜索</h2><p>:&#x2F; + 要查找的字符串<br><br>例如：假如查找字符串为“model”，在vim中键入命令：”&#x2F;model” 即<code>:/model</code> <br><br>键入小写”n”查看下一个匹配的字符串<br><br>键入大写”N”查看上一个匹配的字符串<br></p><h2 id="2-从结尾处搜索"><a href="#2-从结尾处搜索" class="headerlink" title="2.从结尾处搜索"></a>2.从结尾处搜索</h2><p>:? + 要查找的字符串<br><br>例如：假如查找字符串为“model”，在vim中键入命令：”&#x2F;model” 即<code>:?model</code> <br><br>键入小写”n”查看下一个匹配的字符串<br><br>键入大写”N”查看上一个匹配的字符串<br></p><h1 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="v?ops_request_misc=&request_id=&biz_id=102&utm_term=vim%E6%9F%A5%E8%AF%A2%E5%AD%97%E7%AC%A6%E4%B8%B2&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-114966834.142%5Ev87%5Econtrol_2,239%5Ev2%5Einsert_chatgpt&spm=1018.2226.3001.4187">参考文章</a></h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> tools </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>本博客搭建过程回顾</title>
       <link href="/2023/05/18/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/"/>
       <url>/2023/05/18/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/</url>
