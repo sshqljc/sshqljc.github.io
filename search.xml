@@ -4,11 +4,62 @@
   
     
     <entry>
+      <title>MAC 终端美化教程</title>
+      <link href="/2023/05/19/MAC-%E7%BB%88%E7%AB%AF%E7%BE%8E%E5%8C%96%E6%95%99%E7%A8%8B/"/>
+      <url>/2023/05/19/MAC-%E7%BB%88%E7%AB%AF%E7%BE%8E%E5%8C%96%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<h3 id="MAC-终端美化教程"><a href="#MAC-终端美化教程" class="headerlink" title="MAC 终端美化教程"></a><a href="https://blog.csdn.net/weixin_42326144/article/details/121957795?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168244943916800213018351%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168244943916800213018351&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-121957795-null-null.142%5Ev86%5Einsert_down1,239%5Ev2%5Einsert_chatgpt&utm_term=mac%E7%BB%88%E7%AB%AF%E7%BE%8E%E5%8C%96&spm=1018.2226.3001.4187">MAC 终端美化教程</a></h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 命令 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>在python中安装包出现Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None))</title>
+      <link href="/2023/05/19/%E5%9C%A8python%E4%B8%AD%E5%AE%89%E8%A3%85%E5%8C%85%E5%87%BA%E7%8E%B0Retrying-Retry-total-4-connect-None-read-None-redirect-None-status-None/"/>
+      <url>/2023/05/19/%E5%9C%A8python%E4%B8%AD%E5%AE%89%E8%A3%85%E5%8C%85%E5%87%BA%E7%8E%B0Retrying-Retry-total-4-connect-None-read-None-redirect-None-status-None/</url>
+      
+        <content type="html"><![CDATA[<h3 id="在python中安装包出现Retrying-Retry-total-x3D-4-connect-x3D-None-read-x3D-None-redirect-x3D-None-status-x3D-None"><a href="#在python中安装包出现Retrying-Retry-total-x3D-4-connect-x3D-None-read-x3D-None-redirect-x3D-None-status-x3D-None" class="headerlink" title="在python中安装包出现Retrying (Retry(total&#x3D;4, connect&#x3D;None, read&#x3D;None, redirect&#x3D;None, status&#x3D;None))"></a><a href="https://blog.csdn.net/lsf_007/article/details/87931823">在python中安装包出现Retrying (Retry(total&#x3D;4, connect&#x3D;None, read&#x3D;None, redirect&#x3D;None, status&#x3D;None))</a></h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>动手学深度学习搭环境参考文章</title>
+      <link href="/2023/05/19/%E2%80%9C%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%90%AD%E7%8E%AF%E5%A2%83%E5%8F%82%E8%80%83%E6%96%87%E7%AB%A0%E2%80%9D/"/>
+      <url>/2023/05/19/%E2%80%9C%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%90%AD%E7%8E%AF%E5%A2%83%E5%8F%82%E8%80%83%E6%96%87%E7%AB%A0%E2%80%9D/</url>
+      
+        <content type="html"><![CDATA[<p>###<a href="https://naolin.medium.com/conda-on-m1-mac-with-miniforge-bbc4e3924f2b">Conda on M1 Mac with Miniforge</a><br>###<a href="https://blog.csdn.net/qq_22472047/article/details/125049153?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168166961416800213070806%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=168166961416800213070806&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-125049153-null-null.142%5Ev83%5Einsert_down38,239%5Ev2%5Einsert_chatgpt&utm_term=%E8%B7%9F%E7%9D%80%E6%9D%8E%E6%B2%90%E5%AD%A6AI%20mac%20m1&spm=1018.2226.3001.4187">Mac M1芯片安装李沐深度学习包d2l</a><br>###<a href="https://zhuanlan.zhihu.com/p/549737512">李沐-动手学深度学习d2l包安装及m1 gpu加速踩坑记录</a><br>###<a href="https://blog.csdn.net/weixin_41794514/article/details/126815710?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168141397216800186516655%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168141397216800186516655&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-2-126815710-null-null.142%5Ev83%5Einsert_down38,239%5Ev2%5Einsert_chatgpt&utm_term=mac%E4%B8%8B%E8%BD%BDpytorch&spm=1018.2226.3001.4187">深入浅出PyTorch（一）之mac安装</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> CS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>HomeBrew常用命令</title>
       <link href="/2023/05/19/HomeBrew%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
       <url>/2023/05/19/HomeBrew%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
       
-        <content type="html"><![CDATA[<h1 id="HomeBrew常用命令"><a href="#HomeBrew常用命令" class="headerlink" title="HomeBrew常用命令"></a>HomeBrew常用命令</h1><p>1.查看帮助<br><br><code>brew help</code><br><br>2.搜索软件<br><br><code>brew search *</code><br><br>3.查询已经安装的软件<br><br><code>brew list</code><br><br>4.显示软件内容信息<br><br><code>brew info *</code><br><br>5.更新HomeBrew<br><br><code>brew update</code><br><br>6.安装软件<br><br><code>brew install *</code><br><br>7.卸载软件<br><br><code>brew uninstall *</code><br><br>8.用来安装一些带界面的应用软件<br><br><code>brew cask install *</code><br></p><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/yaomingyang/article/details/82942130?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168254843616800217270119%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168254843616800217270119&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-82942130-null-null.142%5Ev86%5Einsert_down1,239%5Ev2%5Einsert_chatgpt&utm_term=homebrew%E6%8C%87%E4%BB%A4&spm=1018.2226.3001.4187">参考文章</a></h3>]]></content>
+        <content type="html"><![CDATA[<h1 id="HomeBrew常用命令"><a href="#HomeBrew常用命令" class="headerlink" title="HomeBrew常用命令"></a>HomeBrew常用命令</h1><p>1.查看帮助<br><br><code>brew help</code><br><br>2.搜索软件<br><br><code>brew search *</code><br><br>3.查询已经安装的软件<br><br><code>brew list</code><br><br>4.显示软件内容信息<br><br><code>brew info *</code><br><br>5.更新HomeBrew<br><br><code>brew update</code><br><br>6.安装软件<br><br><code>brew install *</code><br><br>7.卸载软件<br><br><code>brew uninstall *</code><br><br>8.用来安装一些带界面的应用软件<br><br><code>brew cask install *</code><br></p><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/yaomingyang/article/details/82942130?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168254843616800217270119%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168254843616800217270119&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-82942130-null-null.142%5Ev86%5Einsert_down1,239%5Ev2%5Einsert_chatgpt&utm_term=homebrew%E6%8C%87%E4%BB%A4&spm=1018.2226.3001.4187">参考文章</a></h3><h3 id="mac-安装homebrew出错-Failed-to-connect-to-raw-githubusercontent-com-port-443-Connection-refused-error"><a href="#mac-安装homebrew出错-Failed-to-connect-to-raw-githubusercontent-com-port-443-Connection-refused-error" class="headerlink" title="mac 安装homebrew出错 Failed to connect to raw.githubusercontent.com port 443: Connection refused error"></a><a href="https://www.jianshu.com/p/e8e62bcee84d">mac 安装homebrew出错 Failed to connect to raw.githubusercontent.com port 443: Connection refused error</a></h3>]]></content>
       
       
       
@@ -46,7 +97,7 @@
       <link href="/2023/05/19/Mac%E9%94%AE%E7%9B%98%E5%A5%BD%E7%94%A8%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
       <url>/2023/05/19/Mac%E9%94%AE%E7%9B%98%E5%A5%BD%E7%94%A8%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
       
-        <content type="html"><![CDATA[<h1 id="Mac键盘好用的快捷键"><a href="#Mac键盘好用的快捷键" class="headerlink" title="Mac键盘好用的快捷键"></a>Mac键盘好用的快捷键</h1><p>1.打开一个新标签<br><br><code>command T</code><br><br>2.复制文件<br><br><code>command D</code><br><br>3.快速打开iCloud云盘<br><br><code>shift command I</code><br><br>4.快速新建文件夹<br><br><code>shift command N</code><br><br>5.浏览文档<br><br><code>fn （上下键）</code><br><br>6.打开系统<br><br><code>command ,</code><br><br>7.删除<br><br><code>command delete</code><br><br>8.清空废纸篓<br><br><code>shift command delete</code><br></p><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/macwbear/article/details/118853584?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168245120416800180612190%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168245120416800180612190&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-118853584-null-null.142%5Ev86%5Einsert_down1,239%5Ev2%5Einsert_chatgpt&utm_term=mac%E5%A5%BD%E7%94%A8%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE&spm=1018.2226.3001.4187">参考文章</a></h3>]]></content>
+        <content type="html"><![CDATA[<h1 id="Mac键盘好用的快捷键"><a href="#Mac键盘好用的快捷键" class="headerlink" title="Mac键盘好用的快捷键"></a>Mac键盘好用的快捷键</h1><p>1.打开一个新标签<br><br><code>command T</code><br><br>2.复制文件<br><br><code>command D</code><br><br>3.快速打开iCloud云盘<br><br><code>shift command I</code><br><br>4.快速新建文件夹<br><br><code>shift command N</code><br><br>5.浏览文档<br><br><code>fn （上下键）</code><br><br>6.打开系统<br><br><code>command ,</code><br><br>7.删除<br><br><code>command delete</code><br><br>8.清空废纸篓<br><br><code>shift command delete</code><br><br>9.窗口最大化&#x2F;最小化<br><br><code>command + control + F</code><br></p><h2 id="基础快捷键"><a href="#基础快捷键" class="headerlink" title="基础快捷键"></a>基础快捷键</h2><p>撤销<br><br><code>Command + Z</code><br><br>拷贝<br><br><code>Command + C</code><br><br>粘贴<br><br><code>Command + V</code><br><br>全选<br><br><code>Command + A</code><br><br>保存<br><br><code>Command + S</code><br><br>查找<br><br><code>Command + F</code><br><br>文字剪切<br><br><code>Command + X</code><br></p><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/macwbear/article/details/118853584?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168245120416800180612190%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168245120416800180612190&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-118853584-null-null.142%5Ev86%5Einsert_down1,239%5Ev2%5Einsert_chatgpt&utm_term=mac%E5%A5%BD%E7%94%A8%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE&spm=1018.2226.3001.4187">参考文章</a></h3><h3 id="参考文章-1"><a href="#参考文章-1" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/2202_75483062/article/details/129602595?ops_request_misc=&request_id=&biz_id=102&utm_term=mac%E5%A5%BD%E7%94%A8%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-129602595.142%5Ev86%5Einsert_down1,239%5Ev2%5Einsert_chatgpt&spm=1018.2226.3001.4187">参考文章</a></h3>]]></content>
       
       
       
@@ -84,7 +135,7 @@
       <link href="/2023/05/19/anconda%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4%E6%93%8D%E4%BD%9C/"/>
       <url>/2023/05/19/anconda%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4%E6%93%8D%E4%BD%9C/</url>
       
-        <content type="html"><![CDATA[<h1 id="Anconda常见命令操作"><a href="#Anconda常见命令操作" class="headerlink" title="Anconda常见命令操作"></a>Anconda常见命令操作</h1><p>1、创建虚拟环境<br><br><code>conda create --name 环境名称 python=3.7</code><br><br>2.激活虚拟环境<br><br><code>conda activate 环境名称</code><br><br>若conda activate 环境名称 无法运行，则运行下面命令<br><br><code>source activate 环境名称</code><br><br>3.关闭虚拟环境<br><br><code>conda deactivate 环境名称</code><br><br>4.查看虚拟环境中安装的包<br><br><code>conda list</code><br><br>5.查看系统中所有的虚拟环境<br><br><code>conda env list</code><br><br>6.在虚拟环境中安装包<br><br><code>conda install numpy</code><br><br>7.删除虚拟环境中的包<br><br><code>conda remove numpy</code><br><br>8.删除一个虚拟环境<br><br><code>conda remove --nmlame xy01 --all</code><br></p><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/qq_38879360/article/details/115895479?ops_request_misc=&request_id=&biz_id=102&utm_term=anconda%E6%8C%87%E4%BB%A4%E6%95%99%E7%A8%8B&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-115895479.142%5Ev83%5Einsert_down38,239%5Ev2%5Einsert_chatgpt&spm=1018.2226.3001.4187">参考文章</a></h3>]]></content>
+        <content type="html"><![CDATA[<h1 id="Anconda常见命令操作"><a href="#Anconda常见命令操作" class="headerlink" title="Anconda常见命令操作"></a>Anconda常见命令操作</h1><p>1、创建虚拟环境<br><br><code>conda create --name 环境名称 python=3.7</code><br><br>2.激活虚拟环境<br><br><code>conda activate 环境名称</code><br><br>若conda activate 环境名称 无法运行，则运行下面命令<br><br><code>source activate 环境名称</code><br><br>3.关闭虚拟环境<br><br><code>conda deactivate 环境名称</code><br><br>4.查看虚拟环境中安装的包<br><br><code>conda list</code><br><br>5.查看系统中所有的虚拟环境<br><br><code>conda env list</code><br><br>6.在虚拟环境中安装包<br><br><code>conda install numpy</code><br><br>7.删除虚拟环境中的包<br><br><code>conda remove numpy</code><br><br>8.删除一个虚拟环境<br><br><code>conda remove --nmlame xy01 --all</code><br><br>9.查看anconda安装位置<br><br><code>conda info --envs</code><br></p><h1 id="Jupyter-Notebook内核的添加与删除"><a href="#Jupyter-Notebook内核的添加与删除" class="headerlink" title="Jupyter Notebook内核的添加与删除"></a>Jupyter Notebook内核的添加与删除</h1><p>1.切换到要添加的环境，确认已安装 ipykernel<br><br><code>python -m ipykernel --version</code><br><br>2.正常输出版本号不报错即为安装完成，否则需要使用下面的命令来安装<br><br><code>pip install ipykernel</code><br><br>3.添加内核<br><br><code>python -m ipykernel install --name python27 --display-name &quot;Python2.7&quot;</code><br><br>–name 参数后的 python27 是内核名称，用于系统保存，建议设置为不带符号的小写字母与数字，不能有空格、不能和已有的重复。<br><br>–display-name 参数后的 “Python2.7” 是在 Jupyter Notebook 网页中选择或切换内核时所显示的，可以是任意可读性良好的字符，可以有空格（但包含空格时需要用双引号将名称包裹）、可以和已有的重复。<br><br>4.删除内核<br><br><code>jupyter kernelspec remove python27</code><br><br>注意最后的 python27 是安装过程中设置的 –name 后的参数<br><br>5.列出已有内核<br><br><code>jupyter kernelspec list</code><br></p><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/qq_38879360/article/details/115895479?ops_request_misc=&request_id=&biz_id=102&utm_term=anconda%E6%8C%87%E4%BB%A4%E6%95%99%E7%A8%8B&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-115895479.142%5Ev83%5Einsert_down38,239%5Ev2%5Einsert_chatgpt&spm=1018.2226.3001.4187">参考文章</a></h3><h3 id="参考文章-1"><a href="#参考文章-1" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/weixin_41794514/article/details/126815710?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168141397216800186516655%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168141397216800186516655&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-2-126815710-null-null.142%5Ev83%5Einsert_down38,239%5Ev2%5Einsert_chatgpt&utm_term=mac%E4%B8%8B%E8%BD%BDpytorch&spm=1018.2226.3001.4187">参考文章</a></h3><h3 id="Jupyter-Notebook-内核的添加和删除"><a href="#Jupyter-Notebook-内核的添加和删除" class="headerlink" title="Jupyter Notebook 内核的添加和删除"></a><a href="https://blog.singee.me/2018/06/28/python/jupyter-kernel/">Jupyter Notebook 内核的添加和删除</a></h3><h3 id="为anaconda新建的虚拟环境增加jupyter内核，结合上一篇文章，创建地理空间数据处理和分析专用环境"><a href="#为anaconda新建的虚拟环境增加jupyter内核，结合上一篇文章，创建地理空间数据处理和分析专用环境" class="headerlink" title="为anaconda新建的虚拟环境增加jupyter内核，结合上一篇文章，创建地理空间数据处理和分析专用环境"></a><a href="https://zhuanlan.zhihu.com/p/573537126">为anaconda新建的虚拟环境增加jupyter内核，结合上一篇文章，创建地理空间数据处理和分析专用环境</a></h3><h3 id="jupyter配置多环境Anconda，轻松切换不同内核"><a href="#jupyter配置多环境Anconda，轻松切换不同内核" class="headerlink" title="jupyter配置多环境Anconda，轻松切换不同内核"></a><a href="https://zhuanlan.zhihu.com/p/370024835">jupyter配置多环境Anconda，轻松切换不同内核</a></h3>]]></content>
       
       
       
