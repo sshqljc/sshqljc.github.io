@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Linux 无法建立ＳＳＬ连接</title>
+      <link href="/2023/05/19/Linux-%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8BSSL%E8%BF%9E%E6%8E%A5/"/>
+      <url>/2023/05/19/Linux-%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8BSSL%E8%BF%9E%E6%8E%A5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Linux-无法建立SSL连接"><a href="#Linux-无法建立SSL连接" class="headerlink" title="Linux 无法建立ＳＳＬ连接"></a>Linux 无法建立ＳＳＬ连接</h1><p><code>解决方法，将https改成http</code></p><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/xiong_hany/article/details/94720650?ops_request_misc=&request_id=&biz_id=102&utm_term=%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8Bssl%E8%BF%9E%E6%8E%A5%E5%8E%9F%E5%9B%A0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-7-94720650.142%5Ev86%5Einsert_down1,239%5Ev2%5Einsert_chatgpt&spm=1018.2226.3001.4187">参考文章</a></h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 命令 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>anconda常见命令操作</title>
       <link href="/2023/05/19/anconda%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4%E6%93%8D%E4%BD%9C/"/>
       <url>/2023/05/19/anconda%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4%E6%93%8D%E4%BD%9C/</url>
@@ -84,7 +103,7 @@
       <link href="/2023/05/19/ubuntu%E4%B8%8Brtl8852be%E7%BD%91%E5%8D%A1%E9%A9%B1%E5%8A%A8%E5%AE%89%E8%A3%85-%E8%A7%A3%E5%86%B3%E4%B8%8D%E8%83%BD%E7%94%A8wifi/"/>
       <url>/2023/05/19/ubuntu%E4%B8%8Brtl8852be%E7%BD%91%E5%8D%A1%E9%A9%B1%E5%8A%A8%E5%AE%89%E8%A3%85-%E8%A7%A3%E5%86%B3%E4%B8%8D%E8%83%BD%E7%94%A8wifi/</url>
       
-        <content type="html"><![CDATA[<h1 id="ubuntu下rtl8852be网卡驱动安装-解决不能用wifi"><a href="#ubuntu下rtl8852be网卡驱动安装-解决不能用wifi" class="headerlink" title="ubuntu下rtl8852be网卡驱动安装 解决不能用wifi"></a>ubuntu下rtl8852be网卡驱动安装 解决不能用wifi</h1><p>linux下rtl8852be网卡驱动<a href="https://github.com/HRex39/rtl8852be">下载链接</a><br></p><h2 id="下载之后先解压"><a href="#下载之后先解压" class="headerlink" title="下载之后先解压"></a>下载之后先解压</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cd rtl8852be-main</span><br><span class="line">sudo apt-get install build-essential</span><br><span class="line">sudo apt-get install bc</span><br><span class="line">make</span><br><span class="line">sudo make install</span><br><span class="line">sudo modprobe 8852be</span><br></pre></td></tr></table></figure><h2 id="以上就可以有wifi的设置显示了"><a href="#以上就可以有wifi的设置显示了" class="headerlink" title="以上就可以有wifi的设置显示了"></a>以上就可以有wifi的设置显示了</h2><h2 id="在之前也可以用以下命令更新以下软件"><a href="#在之前也可以用以下命令更新以下软件" class="headerlink" title="在之前也可以用以下命令更新以下软件"></a>在之前也可以用以下命令更新以下软件</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt-get update</span><br><span class="line">sudo apt-get upgrade</span><br><span class="line">sudo apt autoremove</span><br></pre></td></tr></table></figure><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/duola_jingbo/article/details/129333049">参考文章</a></h3>]]></content>
+        <content type="html"><![CDATA[<h1 id="ubuntu下rtl8852be网卡驱动安装-解决不能用wifi"><a href="#ubuntu下rtl8852be网卡驱动安装-解决不能用wifi" class="headerlink" title="ubuntu下rtl8852be网卡驱动安装 解决不能用wifi"></a>ubuntu下rtl8852be网卡驱动安装 解决不能用wifi</h1><p>linux下rtl8852be网卡驱动<a href="https://github.com/HRex39/rtl8852be">下载链接</a><br></p><h2 id="下载之后先解压"><a href="#下载之后先解压" class="headerlink" title="下载之后先解压"></a>下载之后先解压</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cd rtl8852be-main</span><br><span class="line">sudo apt-get install build-essential</span><br><span class="line">sudo apt-get install bc</span><br><span class="line">make</span><br><span class="line">sudo make install</span><br><span class="line">sudo modprobe 8852be</span><br></pre></td></tr></table></figure><h2 id="以上就可以有wifi的设置显示了"><a href="#以上就可以有wifi的设置显示了" class="headerlink" title="以上就可以有wifi的设置显示了"></a>以上就可以有wifi的设置显示了</h2><h2 id="在之前也可以用以下命令更新以下软件"><a href="#在之前也可以用以下命令更新以下软件" class="headerlink" title="在之前也可以用以下命令更新以下软件"></a>在之前也可以用以下命令更新以下软件</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt-get update</span><br><span class="line">sudo apt-get upgrade</span><br><span class="line">sudo apt autoremove</span><br></pre></td></tr></table></figure><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/duola_jingbo/article/details/129333049">参考文章</a></h3><h3 id="参考文章-1"><a href="#参考文章-1" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/a545454669/article/details/124386004">参考文章</a></h3>]]></content>
       
       
       
