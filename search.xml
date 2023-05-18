@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>常用开放端口</title>
+      <link href="/2023/05/19/%E5%B8%B8%E7%94%A8%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3/"/>
+      <url>/2023/05/19/%E5%B8%B8%E7%94%A8%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3/</url>
+      
+        <content type="html"><![CDATA[<h1 id="常用开放端口"><a href="#常用开放端口" class="headerlink" title="常用开放端口"></a>常用开放端口</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">mysql数据库的3306端口</span><br><span class="line">宝塔面板的8888端口</span><br><span class="line">ftp的21端口</span><br><span class="line">SSH远程登录Linux的22端口</span><br><span class="line">HTTP的80端口</span><br><span class="line">HTTPS的443端口</span><br><span class="line">Windows远程桌面服务3389端口</span><br><span class="line">开放云服务器部署 Web 服务需使用的22、80、443、3389端口和 ICMP 协议</span><br></pre></td></tr></table></figure><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/frankie_wang/article/details/113006477?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168380792816800217273549%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168380792816800217273549&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-2-113006477-null-null.142%5Ev87%5Econtrol_2,239%5Ev2%5Einsert_chatgpt&utm_term=%E8%85%BE%E8%AE%AF%E4%BA%91%E9%BB%98%E8%AE%A4%E7%AB%AF%E5%8F%A3&spm=1018.2226.3001.4187">参考文章</a></h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>好用的IDE插件</title>
       <link href="/2023/05/18/%E5%A5%BD%E7%94%A8%E7%9A%84IDE%E6%8F%92%E4%BB%B6/"/>
       <url>/2023/05/18/%E5%A5%BD%E7%94%A8%E7%9A%84IDE%E6%8F%92%E4%BB%B6/</url>
