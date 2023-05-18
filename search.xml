@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>ubuntu下rtl8852be网卡驱动安装 解决不能用wifi</title>
+      <link href="/2023/05/19/ubuntu%E4%B8%8Brtl8852be%E7%BD%91%E5%8D%A1%E9%A9%B1%E5%8A%A8%E5%AE%89%E8%A3%85-%E8%A7%A3%E5%86%B3%E4%B8%8D%E8%83%BD%E7%94%A8wifi/"/>
+      <url>/2023/05/19/ubuntu%E4%B8%8Brtl8852be%E7%BD%91%E5%8D%A1%E9%A9%B1%E5%8A%A8%E5%AE%89%E8%A3%85-%E8%A7%A3%E5%86%B3%E4%B8%8D%E8%83%BD%E7%94%A8wifi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="ubuntu下rtl8852be网卡驱动安装-解决不能用wifi"><a href="#ubuntu下rtl8852be网卡驱动安装-解决不能用wifi" class="headerlink" title="ubuntu下rtl8852be网卡驱动安装 解决不能用wifi"></a>ubuntu下rtl8852be网卡驱动安装 解决不能用wifi</h1><p>linux下rtl8852be网卡驱动<a href="https://github.com/HRex39/rtl8852be">下载链接</a><br></p><h2 id="下载之后先解压"><a href="#下载之后先解压" class="headerlink" title="下载之后先解压"></a>下载之后先解压</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cd rtl8852be-main</span><br><span class="line">sudo apt-get install build-essential</span><br><span class="line">sudo apt-get install bc</span><br><span class="line">make</span><br><span class="line">sudo make install</span><br><span class="line">sudo modprobe 8852be</span><br></pre></td></tr></table></figure><h2 id="以上就可以有wifi的设置显示了"><a href="#以上就可以有wifi的设置显示了" class="headerlink" title="以上就可以有wifi的设置显示了"></a>以上就可以有wifi的设置显示了</h2><h2 id="在之前也可以用以下命令更新以下软件"><a href="#在之前也可以用以下命令更新以下软件" class="headerlink" title="在之前也可以用以下命令更新以下软件"></a>在之前也可以用以下命令更新以下软件</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt-get update</span><br><span class="line">sudo apt-get upgrade</span><br><span class="line">sudo apt autoremove</span><br></pre></td></tr></table></figure><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/duola_jingbo/article/details/129333049">参考文章</a></h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 系统 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MacOS环境配置</title>
       <link href="/2023/05/19/MacOS%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
       <url>/2023/05/19/MacOS%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</url>
@@ -71,7 +90,7 @@
       
         <tags>
             
-            <tag> 虚拟机 </tag>
+            <tag> 系统 </tag>
             
         </tags>
       
@@ -90,7 +109,7 @@
       
         <tags>
             
-            <tag> web </tag>
+            <tag> 网络 </tag>
             
         </tags>
       
