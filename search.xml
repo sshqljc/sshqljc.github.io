@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>解决Clion控制台中文乱码(MinGw环境)</title>
+      <link href="/2023/05/19/%E8%A7%A3%E5%86%B3Clion%E6%8E%A7%E5%88%B6%E5%8F%B0%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81-MinGw%E7%8E%AF%E5%A2%83/"/>
+      <url>/2023/05/19/%E8%A7%A3%E5%86%B3Clion%E6%8E%A7%E5%88%B6%E5%8F%B0%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81-MinGw%E7%8E%AF%E5%A2%83/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第一步，修改默认编码"><a href="#第一步，修改默认编码" class="headerlink" title="第一步，修改默认编码"></a>第一步，修改默认编码</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">由File-----&gt;进入Settings设置-----&gt;Editor-----&gt;FileEncodings</span><br><span class="line">将按照下图进行配置</span><br><span class="line">Global Encoding； 设置成UTF-8</span><br><span class="line">Project Encoding；设置成UTF-8</span><br><span class="line">Default encoding for projecties files；设置成UTF-8</span><br><span class="line">然后点击Apply和OK。</span><br></pre></td></tr></table></figure><h1 id="第二步，取消run-processes-with-pty功能"><a href="#第二步，取消run-processes-with-pty功能" class="headerlink" title="第二步，取消run.processes.with.pty功能"></a>第二步，取消run.processes.with.pty功能</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1.按下Ctrl+Shift+Alt+/ 调出Maintenance界面；</span><br><span class="line">点击Registry…进行配置</span><br><span class="line">2.取消勾选 run.processes.with.pty</span><br></pre></td></tr></table></figure><h3 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a><a href="https://blog.csdn.net/vodka_nice/article/details/120135412#:~:text=%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%EF%BC%9A%20%E7%AC%AC%E4%B8%80%E6%AD%A5,%E6%AD%A3%E5%B8%B8%E6%98%BE%E7%A4%BA%E4%B8%AD%E6%96%87%E4%BA%86...">参考文章</a></h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> IDE </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Mac通过ssh远程连接Ubuntu主机</title>
       <link href="/2023/05/19/Mac%E9%80%9A%E8%BF%87ssh%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5Ubuntu%E4%B8%BB%E6%9C%BA/"/>
       <url>/2023/05/19/Mac%E9%80%9A%E8%BF%87ssh%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5Ubuntu%E4%B8%BB%E6%9C%BA/</url>
