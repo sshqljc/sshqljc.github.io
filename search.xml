@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>zsh: 权限不够解决方法</title>
+      <link href="/2023/05/19/zsh-%E6%9D%83%E9%99%90%E4%B8%8D%E5%A4%9F%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+      <url>/2023/05/19/zsh-%E6%9D%83%E9%99%90%E4%B8%8D%E5%A4%9F%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="zsh-权限不够解决方法"><a href="#zsh-权限不够解决方法" class="headerlink" title="zsh: 权限不够解决方法"></a>zsh: 权限不够解决方法</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">chmod u+x *.sh</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> tools </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>苹果芯片虚拟机PD18+Win11/10</title>
       <link href="/2023/05/19/%E8%8B%B9%E6%9E%9C%E8%8A%AF%E7%89%87%E8%99%9A%E6%8B%9F%E6%9C%BAPD18-Win11-10/"/>
       <url>/2023/05/19/%E8%8B%B9%E6%9E%9C%E8%8A%AF%E7%89%87%E8%99%9A%E6%8B%9F%E6%9C%BAPD18-Win11-10/</url>
