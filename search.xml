@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>npm被误认为的报错</title>
+      <link href="/2023/10/05/npm%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E7%9A%84%E6%8A%A5%E9%94%99/"/>
+      <url>/2023/10/05/npm%E8%A2%AB%E8%AF%AF%E8%AE%A4%E4%B8%BA%E7%9A%84%E6%8A%A5%E9%94%99/</url>
+      
+        <content type="html"><![CDATA[<h2 id="npm被误认为的报错"><a href="#npm被误认为的报错" class="headerlink" title="npm被误认为的报错"></a>npm被误认为的报错</h2><h3 id="CSDN博客参考"><a href="#CSDN博客参考" class="headerlink" title="CSDN博客参考"></a><a href="https://blog.csdn.net/m0_67266585/article/details/123257868?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169645232716800188585192%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=169645232716800188585192&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-123257868-null-null.142%5Ev94%5EchatsearchT3_1&utm_term=added%201%20package,%20and%20audited%20782%20packages%20in%203s%20%2033%20packages%20are%20looking%20for%20funding%20%20%20run%20%60npm%20fund%60%20for%20details%20%2027%20vulnerabilities%20(7%20moderate,%2015%20high,%205%20critical)%20%20To%20address%20issues%20that%20do%20not%20r&spm=1018.2226.3001.4187">CSDN博客参考</a></h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">added 1237 packages, changed 2 packages, and audited 1240 packages in 30s</span><br><span class="line"></span><br><span class="line">81 packages are looking for funding</span><br><span class="line">  run `npm fund` for details</span><br><span class="line"></span><br><span class="line">27 vulnerabilities (17 moderate, 10 high)</span><br><span class="line"></span><br><span class="line">To address issues that do not require attention, run:</span><br><span class="line">  npm audit fix</span><br><span class="line"></span><br><span class="line">To address all issues (including breaking changes), run:</span><br><span class="line">  npm audit fix --force</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> project </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo文章插入图片无法显示</title>
+      <link href="/2023/10/05/hexo%E6%96%87%E7%AB%A0%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA/"/>
+      <url>/2023/10/05/hexo%E6%96%87%E7%AB%A0%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA/</url>
+      
+        <content type="html"><![CDATA[<h2 id="hexo文章插入图片无法显示"><a href="#hexo文章插入图片无法显示" class="headerlink" title="hexo文章插入图片无法显示"></a><a href="https://www.bilibili.com/video/BV1D7411U7Yk/?spm_id_from=333.337.search-card.all.click&vd_source=28171be143b1cb9e87083ed742a685a3">hexo文章插入图片无法显示</a></h2><p>问题描述：本地使用idea时，md文档图片显示正确，上传后无法显示，原因是图片插件的问题，删除原本的插件，然后安装新的插件<br></p><p><code>（https://github.com/CodeFalling/hexo-asset-image）</code> <br><br>问题解决！！！（感谢B站博主的分享，跪谢大佬！！！）</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> project </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>文件权限获取</title>
       <link href="/2023/10/05/%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90%E8%8E%B7%E5%8F%96/"/>
       <url>/2023/10/05/%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90%E8%8E%B7%E5%8F%96/</url>
